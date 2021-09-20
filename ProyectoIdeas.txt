@@ -1,0 +1,3 @@
+Realizar un simulador de precio de plantillas del futbol.
+IDEA FINAL: Se le presenta al Usuario una cantidad de jugadores conocidos y ademas la opcion de agregar jugadores, luego el usuario puede poner una cantidad de-- 
+--11 jugadores a la plantilla, y esta dice, mediante salarios y cuanto sale el jugador, cuanto saldria toda la plantilla.
